@@ -53,7 +53,7 @@ Optional: If the dataset is not included, download it [here](https://www.kaggle.
 
 ## 🧑‍💻 Author
 
-Project by **Selim Dalcicek** (aka [dopesthetic](https://github.com/dopesthetic))
+Project by **dopesthetic** ((https://github.com/dopesthetic))
 
 ---
 
